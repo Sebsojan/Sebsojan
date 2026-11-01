@@ -2,7 +2,7 @@
 
 # Hi, I'm Sebastian Sojan 👋
 
-### Cloud & DevOps Engineer | AWS | Linux | Docker | Kubernetes | Terraform
+### Cloud & DevOps Engineer | Aws | Azure | Linux | Docker | Kubernetes | Terraform
 
 Building, automating, and learning how to run reliable cloud-native systems.
 
@@ -134,7 +134,7 @@ Building skills in metrics collection, dashboards, and monitoring concepts for c
 
 ## 🎯 Current Focus
 
-- Strengthening AWS and cloud infrastructure fundamentals.
+- Strengthening AWS and Azure cloud infrastructure.
 - Practising Kubernetes deployments and container orchestration.
 - Learning monitoring and observability with Prometheus and Grafana.
 - Building CI/CD workflows and infrastructure with Terraform.
