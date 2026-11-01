@@ -25,7 +25,7 @@ I'm an MCA graduate with a BCA background and previous professional experience a
 </td>
 <td width="35%" align="center" valign="middle">
 
-<img src=".profile.jpg" alt="Sebastian Sojan" width="240" />
+<img src="/.profile.jpg" alt="Sebastian Sojan" width="240" />
 
 </td>
 </tr>
