@@ -2,7 +2,7 @@
 
 # Hi, I'm Sebastian Sojan 👋
 
-### Cloud & DevOps Engineer | AWS | Azure | Linux | Docker | Kubernetes | Terraform
+### Cloud & DevOps Engineer | Aws | Azure | Linux | Docker | Kubernetes | Terraform
 
 Building, automating, and learning how to run reliable cloud-native systems.
 
