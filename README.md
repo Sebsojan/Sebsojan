@@ -2,7 +2,7 @@
 
 # Hi, I'm Sebastian Sojan 👋
 
-### Cloud & DevOps Engineer | Aws | Azure | Linux | Docker | Kubernetes | Terraform
+### Cloud & DevOps Engineer | AWS | Linux | Docker | Kubernetes | Terraform
 
 Building, automating, and learning how to run reliable cloud-native systems.
 
@@ -25,7 +25,7 @@ I'm an MCA graduate with a BCA background and previous professional experience a
 </td>
 <td width="35%" align="center" valign="middle">
 
-<img src="./profile.jpg" alt="Sebastian Sojan" width="240" />
+<img src="./assets/profile.jpg" alt="Sebastian Sojan" width="240" />
 
 </td>
 </tr>
@@ -50,6 +50,8 @@ I'm an MCA graduate with a BCA background and previous professional experience a
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
 </p>
 
 ### Programming & Development
@@ -66,26 +68,67 @@ I'm an MCA graduate with a BCA background and previous professional experience a
 
 ## 🚀 Featured Projects
 
-### 1. Kubernetes Streamflix Lab
-A hands-on Kubernetes learning project using Docker and Minikube to practise deploying and managing containerized workloads.
+<div align="center">
+  <a href="https://github.com/Sebsojan">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+Cloud-Native+Projects;Automating+Infrastructure+%26+CI%2FCD;Containerization+%7C+Kubernetes;Monitoring+%7C+Prometheus+%26+Grafana" alt="Animated project highlights" />
+  </a>
+</div>
 
-**Focus:** Kubernetes · Minikube · Docker · Pods · Deployments · Services
+<table>
+<tr>
+<td width="50%" valign="top">
 
-➡️ Explore the repository: [kube-streamflix-lab](https://github.com/Sebsojan/kube-streamflix-lab)
+### ☸️ Kubernetes Streamflix Lab
+**Container orchestration in practice**
 
-### 2. AWS DevOps CI/CD Platform
+A hands-on Kubernetes lab using Docker and Minikube to practise deploying and managing containerized workloads.
+
+`Kubernetes` `Minikube` `Docker`
+
+[View project →](https://github.com/Sebsojan/kube-streamflix-lab)
+
+</td>
+<td width="50%" valign="top">
+
+### ☁️ AWS DevOps CI/CD Platform
+**Deployment and infrastructure automation**
+
 A practical project exploring containerized application deployment, reverse proxy configuration, and infrastructure automation.
 
-**Focus:** AWS learning · Docker · Flask · Nginx · Terraform · CI/CD
+`AWS` `Docker` `Nginx` `Terraform` `CI/CD`
 
-➡️ Explore the repository: [aws-devops-cicd-platform](https://github.com/Sebsojan/aws-devops-cicd-platform)
+[View project →](https://github.com/Sebsojan/aws-devops-cicd-platform)
 
-### 3. GymBuddy — Gym Management System
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏋️ GymBuddy
+**Full-stack application development**
+
 A MERN-stack gym management application with role-based dashboards and an AI-assisted workout generation feature.
 
-**Focus:** React · Node.js · Express · MongoDB · Tailwind CSS · OpenAI integration
+`React` `Node.js` `Express` `MongoDB`
 
-➡️ Explore the repository: [GymBuddy](https://github.com/Sebsojan)
+[Explore my repositories →](https://github.com/Sebsojan?tab=repositories)
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 Monitoring & Observability
+**Prometheus + Grafana**
+
+Building skills in metrics collection, dashboards, and monitoring concepts for cloud-native applications and infrastructure.
+
+`Prometheus` `Grafana` `Observability`
+
+[Explore my repositories →](https://github.com/Sebsojan?tab=repositories)
+
+</td>
+</tr>
+</table>
+
 
 ---
 
@@ -93,18 +136,18 @@ A MERN-stack gym management application with role-based dashboards and an AI-ass
 
 - Strengthening AWS and cloud infrastructure fundamentals.
 - Practising Kubernetes deployments and container orchestration.
+- Learning monitoring and observability with Prometheus and Grafana.
 - Building CI/CD workflows and infrastructure with Terraform.
 - Improving Linux administration and Bash scripting.
 - Documenting projects with clear setup steps and architecture notes.
-
 ---
-
 
 ## 🤝 Connect With Me
 
 - **GitHub:** [@Sebsojan](https://github.com/Sebsojan)
-- **LinkedIn:** https://www.linkedin.com/in/sebastiansojan/
+- **LinkedIn:** https://www.linkedin.com/in/sebastiansojan
 - **Email:** sebastian.sojan.official@gmail.com
+- **Medium Account:** https://medium.com/@sebastian.sojan.official
 
 ---
 
