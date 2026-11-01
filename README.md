@@ -2,7 +2,7 @@
 
 # Hi, I'm Sebastian Sojan 👋
 
-### Cloud & DevOps Engineer | AWS | Linux | Docker | Kubernetes | Terraform
+### Cloud & DevOps Engineer | AWS | Azure | Linux | Docker | Kubernetes | Terraform
 
 Building, automating, and learning how to run reliable cloud-native systems.
 
@@ -99,24 +99,12 @@ A MERN-stack gym management application with role-based dashboards and an AI-ass
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sebsojan&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebsojan&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Sebsojan&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</div>
-
----
 
 ## 🤝 Connect With Me
 
 - **GitHub:** [@Sebsojan](https://github.com/Sebsojan)
-- **LinkedIn:** Add your LinkedIn profile URL here.
-- **Email:** Add your professional email address here.
+- **LinkedIn:** https://www.linkedin.com/in/sebastiansojan/
+- **Email:** sebastian.sojan.official@gmail.com
 
 ---
 
